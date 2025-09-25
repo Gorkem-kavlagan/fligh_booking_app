@@ -1,0 +1,20 @@
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\bin\Debug\uçak rezervasyon uygulaması.exe.config
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\bin\Debug\uçak rezervasyon uygulaması.exe
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\bin\Debug\uçak rezervasyon uygulaması.pdb
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\obj\Debug\uçak_rezervasyon_uygulaması.Form1.resources
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\obj\Debug\uçak_rezervasyon_uygulaması.Properties.Resources.resources
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.csproj.GenerateResource.cache
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.exe
+C:\Users\gorke\OneDrive\Masaüstü\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.pdb
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\bin\Debug\uçak rezervasyon uygulaması.exe.config
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\bin\Debug\uçak rezervasyon uygulaması.exe
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\bin\Debug\uçak rezervasyon uygulaması.pdb
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.csproj.AssemblyReference.cache
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\obj\Debug\uçak_rezervasyon_uygulaması.Form1.resources
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\obj\Debug\uçak_rezervasyon_uygulaması.Properties.Resources.resources
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.csproj.GenerateResource.cache
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.exe
+C:\Users\gorke\OneDrive\Desktop\Yazılımsal\c#\uçak rezervasyon uygulaması\obj\Debug\uçak rezervasyon uygulaması.pdb
